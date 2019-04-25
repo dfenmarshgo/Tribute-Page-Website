@@ -1,0 +1,54 @@
+html, body {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  min-width:260px;
+  color:#668681;
+  background-color: #000706;
+}
+
+#predict{
+  font-style: italic; 
+  font-weight: bold;
+}
+
+#main {
+  margin:30px auto;
+  padding: 20px;
+  background: #000706;
+  border:0px solid;
+  border-radius:5px;
+}
+h1 {
+  color:#4D510C;
+  background-color: #100C51;
+  font-size: 30px;
+  font-weight: bold;
+}
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#img-div{
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:5px solid #3C3126;
+  background:#26313C;
+}
+#img-caption{
+  margin:15px;
+}
+#information{
+  margin-top:50px;
+  text-align:left;
+}
+ul{
+  max-width:550px;
+  margin:0 auto;
+  text-align:left;
+}
+li{
+  margin: 10px;
+}
